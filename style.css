@@ -21,6 +21,14 @@ div {
   background-color: blue;
 }
 
+.green {
+  background-color: rgb(20, 182, 20);
+}
+
+.pink {
+  background-color: rgba(248, 45, 204, 0.808);
+}
+
 .invisible {
   display: none;
 }
